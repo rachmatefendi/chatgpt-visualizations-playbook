@@ -1,0 +1,44 @@
+element,category,evidence_tier,basis,recommended_use
+chart,visual,V,Charts/plots explicitly in Visualizations docs,"Trends, comparisons"
+diagram,visual,V,Diagrams explicitly in Visualizations docs,"State machine, workflows"
+map,visual,V,Maps explicitly in Visualizations docs,Distribution
+calculator,visual,V,Calculators explicitly in Visualizations docs,What-if parameter calculations
+simulation,visual,V,Simulations explicitly in Visualizations docs,"What-if, physics"
+interactive explanation,visual,V,Explanations explicitly in Visualizations docs,Learning labs
+button,input/action,K,Named ChatKit component; interaction also appears in Visualizations demo,"Reset, next, submit"
+text editable,input,K,ChatKit Text editable option,Text capture
+select,input,K,ChatKit Select; also present in Visualizations demo,Single choice
+date picker,input,K,ChatKit DatePicker,Date choice
+card,layout,K,ChatKit WidgetRoot Card,KPI and grouped summary
+badge,display,K,ChatKit Badge,Status label
+box,layout,K,ChatKit Box,Layout
+row,layout,K,ChatKit Row,Layout
+col,layout,K,ChatKit Col,Layout
+form,layout/action,K,ChatKit Form,Input submission
+list view,display,K,ChatKit ListView,Records
+text,display,K,ChatKit Text,Plain text
+title,display,K,ChatKit Title,Heading
+caption,display,K,ChatKit Caption,Supporting text
+icon,display,K,ChatKit Icon,Symbol
+image,display,K,ChatKit Image,Media
+divider,layout,K,ChatKit Divider,Separator
+spacer,layout,K,ChatKit Spacer,Spacing
+markdown,display,K,ChatKit Markdown,Rich text
+slider,input,P,Interaction example in Visualizations but not documented as public component API,Param adjustment
+checkbox,input,P,Pattern; generic Visualizations UI element not formalized in guide,Boolean
+radio group,input,P,Pattern,Exclusive choice
+segmented control,input,P,Pattern,Mode selection
+textarea,input,P,Pattern,Long-form notes
+table,display,P,Pattern and recommended fallback,Audit
+search,input,P,Pattern,Filtering
+popover,display,P,Pattern,Help
+modal,display,P,Pattern,Confirmation
+progress bar,display,P,Pattern,Progress
+carousel,display,P,Pattern,Multiple views
+heatmap,visual,P,Chart pattern; not enumerated as public component API,Sensitivity
+sankey,visual,P,Chart pattern; not enumerated as public component API,Flow
+treemap,visual,P,Chart pattern; not enumerated as public component API,Concentration
+gauge,visual,P,Chart pattern; not enumerated as public component API,Score
+network graph,visual,P,Diagram pattern; not enumerated as public component API,Ownership
+kanban,interaction,P,Custom UI pattern,Task management
+file upload,input/integration,P,Requires supported product pathway; not assumed native visual control,File input

@@ -1,0 +1,7 @@
+cashflow_date,amount_idr_million,cashflow_type,scenario,status,source
+2026-01-01,-1000,investor_disbursement,base,synthetic,training_fixture
+2026-07-01,60,coupon,base,synthetic,training_fixture
+2027-01-01,60,coupon,base,synthetic,training_fixture
+2027-07-01,60,coupon,base,synthetic,training_fixture
+2028-01-01,60,coupon,base,synthetic,training_fixture
+2028-01-01,1000,principal_repayment,base,synthetic,training_fixture

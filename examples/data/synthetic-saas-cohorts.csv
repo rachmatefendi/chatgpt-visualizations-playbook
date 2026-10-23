@@ -1,0 +1,9 @@
+cohort_month,period_month,customer_id,mrr_idr_thousand,active_flag,segment,source
+2026-01,2026-01,DEMO-001,250,1,SMB,training_fixture
+2026-01,2026-02,DEMO-001,250,1,SMB,training_fixture
+2026-01,2026-03,DEMO-001,300,1,SMB,training_fixture
+2026-01,2026-01,DEMO-002,150,1,SMB,training_fixture
+2026-01,2026-02,DEMO-002,0,0,SMB,training_fixture
+2026-01,2026-03,DEMO-002,0,0,SMB,training_fixture
+2026-02,2026-02,DEMO-003,500,1,Midmarket,training_fixture
+2026-02,2026-03,DEMO-003,500,1,Midmarket,training_fixture

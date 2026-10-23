@@ -1,0 +1,8 @@
+table_session_id,paid_order_id,order_item_id,channel,station,item_status,served_status,payment_status,source
+S-101,O-1001,I-1,dine_in,hot_kitchen,Ready,Served,Paid,training_fixture
+S-101,O-1001,I-2,dine_in,bar,Preparing,Not Served,Paid,training_fixture
+S-101,O-1002,I-3,dine_in,bar,Ready,Served,Paid,training_fixture
+S-102,O-2001,I-4,takeaway,hot_kitchen,Ready,Not Served,Paid,training_fixture
+S-102,O-2001,I-5,takeaway,bar,Preparing,Not Served,Paid,training_fixture
+S-103,O-3001,I-6,delivery,hot_kitchen,Ready,Not Served,Paid,training_fixture
+S-103,O-3001,I-7,delivery,bar,Ready,Not Served,Paid,training_fixture

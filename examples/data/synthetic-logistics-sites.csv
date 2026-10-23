@@ -1,0 +1,5 @@
+site_id,region,latitude,longitude,allocated_units,delivered_units,installed_units,batch,source
+DEMO-A,Synthetic-Zone-1,-6.22,106.83,2,2,2,Batch-1,training_fixture
+DEMO-B,Synthetic-Zone-1,-6.23,106.85,2,2,0,Batch-1,training_fixture
+DEMO-C,Synthetic-Zone-2,-6.27,106.89,2,2,2,Batch-2,training_fixture
+DEMO-D,Synthetic-Zone-2,,,2,0,0,Batch-2,training_fixture

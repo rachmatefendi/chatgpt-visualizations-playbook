@@ -1,0 +1,8 @@
+period,revenue_idr_million,cogs_idr_million,operating_expense_idr_million,status,source
+2025-Q1,780,500,190,synthetic,training_fixture
+2025-Q2,840,530,200,synthetic,training_fixture
+2025-Q3,910,580,215,synthetic,training_fixture
+2025-Q4,990,625,230,synthetic,training_fixture
+2026-Q1,1010,655,245,synthetic,training_fixture
+2026-Q2,1080,680,258,synthetic,training_fixture
+2026-Q3,1160,720,270,synthetic,training_fixture
