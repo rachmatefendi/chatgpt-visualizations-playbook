@@ -25,4 +25,4 @@ Twelve bounded, reusable examples. Every scenario is **illustrative decision sup
 4. Record product surface and test date, including untested limitations.
 5. Treat the result as a non-binding analysis; production actions require a separate system.
 
-**Maintained by:** [Rachmat Efendi](https://rachmatefendi.com). See [rights status](../LICENSE-STATUS.md).
+**Maintained by:** [Rachmat Efendi](https://rachmatefendi.com). Licensed under [CC BY 4.0](../LICENSE).

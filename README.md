@@ -84,9 +84,9 @@ See [CHANGELOG](CHANGELOG.md), [Maintenance Policy](docs/11-publishing-and-maint
 
 ## Licensing and publication
 
-**Copyright © 2026 Rachmat Efendi. All rights reserved unless and until an explicit license is selected.**
+**Copyright © 2026 Rachmat Efendi.** Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
 
-The package intentionally includes **no open-source/open-content license**. Public visibility on GitHub does not automatically grant reproduction or derivative-work rights. Do not describe the repository as MIT-, CC BY-, or otherwise open-licensed. See [LICENSE-STATUS.md](LICENSE-STATUS.md).
+You may share and adapt this material, including commercially, provided you give attribution to Rachmat Efendi, link to the license, and indicate whether changes were made. The license covers the author's own material only; third-party product names, marks and linked documentation remain with their owners.
 
 ## Attribution and independence
 
@@ -99,4 +99,4 @@ This is an independent educational project and is **not affiliated with, sponsor
 - [OpenAI ChatKit widget documentation](https://developers.openai.com/api/docs/guides/chatkit-widgets)
 - [ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
-**Repository name:** `chatgpt-visualizations-playbook` · **Suggested GitHub owner:** `rachmatefendi` · **Publication default:** private pending licensing decision.
+**Repository name:** `chatgpt-visualizations-playbook` · **Suggested GitHub owner:** `rachmatefendi` · **License:** CC BY 4.0.

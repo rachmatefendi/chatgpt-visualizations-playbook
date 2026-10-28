@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased — 2026-10-29
+
+- Licensed the repository under CC BY 4.0; replaced `LICENSE-STATUS.md` with `LICENSE`.
+
 ## 1.0.0 — 2026-10-23 — English documentation edition
 
 - Published the English-language source package: README, 43-element evidence-labeled component catalog, 12 use cases, five operational playbooks, templates, copy-ready prompts, and five synthetic example CSVs.

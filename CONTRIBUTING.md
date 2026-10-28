@@ -17,4 +17,4 @@ Describe the changed document, objective, evidence/source date, proposed delta, 
 
 ## Licensing notice
 
-**No outbound reuse license has been granted.** Contribution discussion does not change the repository's rights status; coordinate reuse and contributions with the author before republication.
+This repository is licensed under [CC BY 4.0](LICENSE). By submitting a contribution, you agree that it may be distributed under the same license.

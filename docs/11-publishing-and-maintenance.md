@@ -50,6 +50,7 @@ Record a separate issue with source URL, scope, evidence tier, observed contradi
 - Description: `Independent guide to ChatGPT Visualizations, UI patterns, prompt engineering, QA, and practical use cases. By Rachmat Efendi.`
 - Homepage: `https://rachmatefendi.com`
 - Topics: `chatgpt`, `visualizations`, `prompt-engineering`, `data-visualization`, `interactive-tools`, `ui-patterns`, `decision-support`, `playbook`
-- Visibility: **Private by default until author chooses publication and license posture**.
+- Visibility: public
+- License: CC BY 4.0 (see [LICENSE](../LICENSE))
 
 A local archive and a Git commit are **not proof of a remote GitHub publication**.
